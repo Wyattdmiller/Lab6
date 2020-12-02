@@ -16,6 +16,24 @@ we iterate over using a loop three times and print the results to the user. As a
 
 """
 
+"""
+import random
+num = generate random number
+If num is greater than 15, 
+  then the result will be "Cherries"
+Otherwise if num is > 10, 
+  the result will be "Orange"
+Otherwise if num is > 5, 
+  the result will be "Plum"
+Otherwise if num is > 2, 
+  the result will be "Melon"
+Otherwise if num is > 1, 
+  the result will be "Bell"
+Otherwise
+  the result will be "Bar"
+loop three times
+  print the output (fruit) to the user
+"""
 
 
 
